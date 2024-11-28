@@ -1,23 +1,47 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Filmes',
+    'De que filme é Dumbledore?',
+    'Dumbledore é um mago da saga Harry Potter'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'História',
+    'Qual o nome completo da princesa Isabel?',
+    'Isabel Cristina Leopoldina Augusta Micaela Gabriela Rafaela Gonzaga de Bragança e Bourbon'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Disney',
+    'Quem é a princesa do mar?',
+    'Ariel'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Filmes',
+    'Quem é o filho de Poseidon?',
+    'Percy Jacson'
 )
+criaCartao(
+    'Filmes', 
+    'Quem dirigiu "Titanic"?',
+     'James Cameron')
+
+criaCartao(
+    'Filmes', 
+    'Qual é a cidade principal onde se passa "La La Land"?', 
+    'Los Angeles')
+
+criaCartao(
+    'Filmes', 
+    'Em que ano "Os Vingadores" foi lançado?', 
+    '2012')
+
+criaCartao(
+    'Filmes', 
+    'Qual é o nome do robô em "Wall-E"?', 
+    'Wall-E')
+
+criaCartao(
+    'Filmes', 
+    'Quem ganhou o Oscar de Melhor Filme em 1994?',
+     'Forrest Gump')
